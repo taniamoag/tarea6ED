@@ -4,6 +4,7 @@ import java.util.logging.Logger;
 
 public class Tarea6EDClase {
 
+    //registrar mensajes con información
     private static final Logger logger = Logger.getLogger(Tarea6EDClase.class.getName());
 
     public void aplicarDescuento(double precioProducto, int numProductos) {
